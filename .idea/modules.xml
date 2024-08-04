@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/PineClient.iml" filepath="$PROJECT_DIR$/.idea/PineClient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/PineClient.main.iml" filepath="$PROJECT_DIR$/.idea/modules/PineClient.main.iml" />
     </modules>
   </component>
 </project>

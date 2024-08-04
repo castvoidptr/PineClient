@@ -47,10 +47,6 @@ loom {
     }
 }
 
-sourceSets.main {
-    output.resourcesDir = file("$buildDir/classes/java/main")
-}
-
 // Dependencies:
 
 repositories {
