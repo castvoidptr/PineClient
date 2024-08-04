@@ -1,0 +1,8 @@
+{
+  "compatibilityLevel": "JAVA_8",
+  "package": "me.oringo.oringoclient.mixins",
+  "refmap": "mixins.oringo.refmap.json",
+  "mixins": [
+
+  ]
+}

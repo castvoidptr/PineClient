@@ -1,0 +1,8 @@
+{
+  "compatibilityLevel": "JAVA_8",
+  "package": "net.pine.mixins",
+  "refmap": "mixins.pine.refmap.json",
+  "mixins": [
+      ""
+  ]
+}

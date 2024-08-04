@@ -1,0 +1,14 @@
+{
+  "mappings": {
+    "net/pine/mixins/MixinMinecraft": {
+      "startGame": "Lnet/minecraft/client/Minecraft;func_71384_a()V"
+    }
+  },
+  "data": {
+    "named:intermediary": {
+      "net/pine/mixins/MixinMinecraft": {
+        "startGame": "Lnet/minecraft/client/Minecraft;func_71384_a()V"
+      }
+    }
+  }
+}
